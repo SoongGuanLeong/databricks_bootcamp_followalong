@@ -4,9 +4,9 @@ This repo includes
   - [Video Link 1](https://www.youtube.com/watch?v=sxYcjDrMyNc)
   - [Video Link 2](https://www.youtube.com/watch?v=ldBLOasG23w)
 - all my solutions to the pyspark practice problems that I found from the websites listed below (FREE Questions Only - until I find a job and complete the rest):
-  - [Spark Playground](https://www.sparkplayground.com/)
-  - [Zillacode](https://zillacode.com/home)
-  - [Strata Scratch](https://www.stratascratch.com/)
+  - [Spark Playground](https://www.sparkplayground.com/): mostly paid questions
+  - [Zillacode](https://zillacode.com/home): around 50 free questions 
+  - [Strata Scratch](https://www.stratascratch.com/): around 100 free questions
 
 ## Purpose of this repo
 - recap data engineering, particularly on the OLAP part.

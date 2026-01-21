@@ -5,5 +5,7 @@ This repo includes all the materials covered in the video by [Data with Baraa](h
 
 ## Purpose of this repo
 - recap data engineering, particularly on the OLAP part.
-- to compare with [intermediate bootcamp by DataExpert.io](https://learn.dataexpert.io/program/free-community-boot-camp/details) to see if there is anything extra to know
+- to compare with others to see if there is anything extra to know
+  - [intermediate bootcamp by DataExpert.io](https://learn.dataexpert.io/program/free-community-boot-camp/details)
+  - [databricks videos by Ansh Lamba](https://github.com/SoongGuanLeong/DE-skills-recap-followalong/tree/main/azure-databricks)
 - a morale boost before giving a final push to the [batch pipeline project](https://github.com/SoongGuanLeong/data_pipelines_batch_stream_vector) which mimics the infra used the databricks as I'm a bit stuck on the OLAP part of the project.

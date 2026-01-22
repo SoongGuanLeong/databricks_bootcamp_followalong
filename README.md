@@ -5,7 +5,7 @@ This repo includes
   - [Video Link 2](https://www.youtube.com/watch?v=ldBLOasG23w)
   - [notion notes](https://candle-gosling-511.notion.site/Databricks-Bootcamp-2e734b251f1280208697c641df833373)
 - all my solutions to the pyspark practice problems that I found from the websites listed below (FREE Questions Only - until I find a job, I'll complete the rest):
-  - [Spark Playground](https://www.sparkplayground.com/): mostly paid questions
+  - [Spark Playground](https://www.sparkplayground.com/): mostly paid questions, around 5 free questions
   - [Zillacode](https://zillacode.com/home): around 50 free questions 
   - [Strata Scratch](https://www.stratascratch.com/): around 100 free questions
 

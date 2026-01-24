@@ -15,3 +15,5 @@ This repo includes
   - [intermediate bootcamp by DataExpert.io](https://learn.dataexpert.io/program/free-community-boot-camp/details)
   - [databricks videos by Ansh Lamba](https://github.com/SoongGuanLeong/DE-skills-recap-followalong/tree/main/azure-databricks)
 - a morale boost before giving a final push to the [batch pipeline project](https://github.com/SoongGuanLeong/data_pipelines_batch_stream_vector) which mimics the infra used the databricks as I'm a bit stuck on the OLAP part of the project.
+
+

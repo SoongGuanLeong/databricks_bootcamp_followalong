@@ -1,0 +1,17 @@
+from pyspark.sql import SparkSession
+from pyspark.sql import functions as F
+from pyspark.sql import Window as W
+import pyspark
+import datetime
+import json
+
+spark = SparkSession.builder.appName('run-pyspark-code').getOrCreate()
+
+def etl(df1, df2):
+	# Write code here
+	df = (
+        df1.join(df2, "product_id")
+            .withColumn("row_number", F.row_number().over(W.orderBy(F.col("manufacturing_date"))))
+    )
+
+    return df

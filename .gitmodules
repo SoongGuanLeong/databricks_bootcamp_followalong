@@ -1,0 +1,3 @@
+[submodule "sql_questions"]
+	path = sql_questions
+	url = https://github.com/SoongGuanLeong/de-sql-trino-practice.git

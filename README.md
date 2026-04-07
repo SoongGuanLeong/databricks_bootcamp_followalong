@@ -1,4 +1,4 @@
-# databricks_bootcamp_followalong & pyspark practice problems
+# databricks_bootcamp_followalong & practice problems
 This repo includes 
 - all the materials covered in the video by [Data with Baraa](https://www.youtube.com/@DataWithBaraa).
   - [Video Link 1](https://www.youtube.com/watch?v=sxYcjDrMyNc)
@@ -8,6 +8,7 @@ This repo includes
   - [Spark Playground](https://www.sparkplayground.com/): mostly paid questions, around 5 free questions
   - [Zillacode](https://zillacode.com/home): around 50 free questions 
   - [Strata Scratch](https://www.stratascratch.com/): around 100 free questions
+- all my solutions to the sql practice problems that I found from [DataExpert.io SQL Questions](https://www.dataexpert.io/questions), around 50 questions.
 
 ## Purpose of this repo
 - recap data engineering, particularly on the OLAP part.
